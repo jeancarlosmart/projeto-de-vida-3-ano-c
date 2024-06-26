@@ -43,4 +43,10 @@ body{
     align-items: center;
     width: 100%;
     
+    
+    border-bottom: 4px solid var(--botao-ativo)
+    order-bottom: 4px left var(--botao-ativo)
+    border-bottom: 4px right var(--botao-ativo)
+    /* /* border-to 
+    
 }
